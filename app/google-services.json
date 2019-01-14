@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "212513695457",
+    "firebase_url": "https://proyectonotification-de8a6.firebaseio.com",
+    "project_id": "proyectonotification-de8a6",
+    "storage_bucket": "proyectonotification-de8a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212513695457:android:1a00d282a3bc87f3",
+        "android_client_info": {
+          "package_name": "buguisos.madconcert.com.proyectonotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212513695457-sp6bftj8ak2dca8ppf46mjc4rph5slpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLeVTMZz793nyrbu3AhqCGOxTqNZdvqzk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
